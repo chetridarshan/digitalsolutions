@@ -1,0 +1,406 @@
+/* Main Tags */
+body{
+  margin: 0;
+  background-color:#222222;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color:#bbbbbb;
+}
+
+/* Menu Section */
+
+.container-menu-item{
+  padding:0.5vw;
+}
+
+.container-menu{
+  font-size: 2vw;
+  position: absolute;
+  left: 5%;
+  bottom: 90%;
+  color:white;
+}
+
+/* Home Section */
+  .container-home{
+    position: relative;
+    background-color:#222222 ;
+  }
+
+  .container-home-img{
+    width: 100%;
+  }
+
+  .container-home-1{
+    font-size:6vw;
+    position: absolute;
+    left: 5%;
+    top: 60%;
+    color: white;
+  }
+
+  .container-home-2{
+  font-size: 3vw;
+  position: absolute;
+  top: 75%;
+  left: 5%;
+  color: white;
+  }
+
+/* Company Section */
+
+.container-company{
+position: relative;
+}
+
+.container-company-img{
+  position: absolute;
+  width: 30%;
+  height: 65%;
+  top: 20%;
+  left: 5%
+}
+
+.container-company-background{
+  width:20vw; height:40vw;
+  width: 100%;
+  background-color:#222222 ;
+}
+
+
+.container-company-1{
+  font-size:6vw;
+  position: absolute;
+  left: 40%;
+  top: 20%;
+  color: white;
+}
+
+.container-company-2{
+font-size: 2vw;
+position: absolute;
+top: 45%;
+left: 40%;
+color: white;
+padding-right: 5%;
+}
+
+
+.container-company-btn{
+font-size: 2vw;
+position: absolute;
+color: white;
+top: 75%;
+left: 40%;
+background-color:#41403e;
+border: none;
+padding:1%;
+text-align: center;
+}
+
+.container-company-btn:hover{
+  background-color:#bbbbbb;
+  color:black;
+}
+
+ /* Clients Section */
+
+ .container-background-white{
+   width:20vw; height:5vw;
+   width: 100%;
+   background-color:#FFFFFF;
+ }
+
+.client-services{
+  position: relative;
+}
+
+.container-client-background{
+  width:20vw; height:40vw;
+  width: 100%;
+  background-color:#222222;
+}
+
+.container-client-background-white{
+  width:20vw; height:27vw;
+  width: 100%;
+  background-color:#FFFFFF;
+}
+
+.container-client-heading{
+  font-size:6vw;
+  position: absolute;
+  left: 4%;
+  top: 3%;
+  color: black;
+}
+
+.client-pricing-paragraph{
+  font-size: 2vw;
+  position: absolute;
+  top: 25%;
+  left: 5%;
+  color: black;
+  padding-right: 5%;
+}
+
+.container-client-img-1{
+  position: absolute;
+  width: 20%;
+  height: 45%;
+  top: 45%;
+  left: 5%
+}
+
+.container-client-img-2{
+  position: absolute;
+  width: 20%;
+  height: 45%;
+  top: 45%;
+  left: 27%;
+}
+
+.container-client-img-3{
+  position: absolute;
+  width: 20%;
+  height: 45%;
+  top: 45%;
+  left: 49%
+}
+
+
+.container-client-img-4{
+  position: absolute;
+  width: 20%;
+  height: 45%;
+  top: 45%;
+  left: 71%
+}
+
+/* Services Section */
+
+.container-services{
+position: relative;
+margin-top: 5%;
+background-color:#222222;
+}
+
+.container-services-img{
+  position: absolute;
+  width: 30%;
+  height: 50%;
+  top: 44%;
+  left: 5%
+}
+
+.container-services-background{
+  width:20vw; height:40vw;
+  width: 100%;
+  background-color:#222222;
+}
+
+
+.container-services-1{
+  font-size:6vw;
+  position: absolute;
+  left: 4%;
+  top: 3%;
+  color: white;
+}
+
+.container-services-1-1{
+  font-size:3vw;
+  position: absolute;
+  left: 52%;
+  top: 6%;
+  color: white;
+}
+
+.container-services-1-2{
+  font-size:3vw;
+  position: absolute;
+  left: 52%;
+  top: 36%;
+  color: white;
+}
+
+.container-services-1-3{
+  font-size:3vw;
+  position: absolute;
+  left: 52%;
+  top: 66%;
+  color: white;
+}
+
+.container-services-2-1{
+font-size: 2vw;
+position: absolute;
+top: 16%;
+left: 52%;
+color: white;
+padding-right: 5%;
+}
+
+.container-services-2-2{
+font-size: 2vw;
+position: absolute;
+top: 46%;
+left: 52%;
+color: white;
+padding-right: 5%;
+}
+
+.container-services-2-3{
+font-size: 2vw;
+position: absolute;
+top: 76%;
+left: 52%;
+color: white;
+padding-right: 5%;
+}
+
+.container-services-number-1{
+font-size: 8vw;
+position: absolute;
+top: 6%;
+left: 41%;
+color: grey;
+padding-right: 5%;
+}
+
+.container-services-number-2{
+font-size: 8vw;
+position: absolute;
+top: 36%;
+left: 41%;
+color: grey;
+padding-right: 5%;
+}
+
+.container-services-number-3{
+font-size: 8vw;
+position: absolute;
+top: 66%;
+left: 41%;
+color:grey;
+padding-right: 5%;
+}
+
+.container-services-1-1:hover
+{
+  color:#bbbbbb;
+}
+
+.container-services-1-2:hover
+{
+  color:#bbbbbb;
+}
+.container-services-1-3:hover
+{
+  color:#bbbbbb;
+}
+
+  /* <!-- Lets Work Together --> */
+  .container-work{
+    margin-top: 5%;
+  position: relative;
+  }
+
+  .container-work-img{
+    padding-top: 2%;
+    position: absolute;
+    width: 45%;
+    height: 65%;
+    top: 25%;
+    left: 5%
+  }
+
+  .container-work-background{
+    width:20vw; height:40vw;
+    width: 100%;
+    background-color:white ;
+  }
+
+
+  .container-work-1{
+    font-size:6vw;
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    color: black;
+  }
+
+  .container-work-2{
+    font-size:3vw;
+    position: absolute;
+    left: 55%;
+    top: 32%;
+    color: :#222222;
+  }
+
+  .container-work-2-1{
+    font-size:2vw;
+    position: absolute;
+    left: 55%;
+    top: 42%;
+    color:black;
+  }
+
+  .container-work-3{
+    font-size:3vw;
+    position: absolute;
+    left: 55%;
+    top: 55%;
+    color: :#222222;
+  }
+
+  .container-work-3-1{
+  font-size: 2vw;
+  position: absolute;
+  top: 65%;
+  left: 55%;
+  color: black;
+  padding-right: 5%;
+  }
+
+  .container-work-4{
+  font-size: 3vw;
+  position: absolute;
+  top: 75%;
+  left: 55%;
+  color: :#222222;
+  padding-right: 5%;
+  }
+
+  .container-work-4-1{
+  font-size: 2vw;
+  position: absolute;
+  top: 85%;
+  left: 55%;
+  color: black;
+  padding-right: 5%;
+
+  }
+/* Footer */
+
+.footer{
+  font-size: 2vw;
+  width:20vw; height:4vw;
+  width: 100%;
+  background-color:#000000;
+  text-align: center;
+  bottom:50%;
+  padding-top: 2%;
+  color: white;
+}
+/* @media screen */
+
+@media (max-width: 900px) {
+  .container-menu{
+    font-size: 3vw;}
+}
